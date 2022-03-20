@@ -16,10 +16,9 @@ _A webpage that people can visit for information on Worlds Best Resort, how to m
 
 ## Setup/Installation Requirements
 
-*_Clone this repository to your desktop_
-*_Navigate to the top level of the directory_
-*_Open portfolio/index.html in your browser_
-
+* _Clone this repository to your desktop_ 
+* _Navigate to the top level of the directory_ 
+* _Open portfolio/index.html in your browser_
 
 ## Known Bugs
 
