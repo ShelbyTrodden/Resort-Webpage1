@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(42, 134, 134);
+  font-family: 'Lucida Sans';
+}
+h1 {
+  color: blanchedalmond;
+  text-align: center;
+  font-size: 70px;
+}
+h2 {
+  color: blanchedalmond;
+  text-align: center;
+  font-size: 45px;
+}
+p {
+  font-size: 30px;
+  color: rgb(192, 186, 176);
+  text-align: center;
+
+}
+ul {
+  font-size: 20px;
+  color: rgb(192, 186, 176);
+  text-align: left;
+}
